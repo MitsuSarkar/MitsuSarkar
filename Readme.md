@@ -1,4 +1,4 @@
-[Demo] - (https://mitsusarkar.github.io/Portfolio/)
+[Link to Portfolio](https://mitsusarkar.github.io/Portfolio/)
 # 🌟 Sumit Sarkar's Portfolio 🌟
 
 Welcome to my personal portfolio repository! 🎉 Dive in to explore my work, skills, and passion for creating impactful projects. 🚀
