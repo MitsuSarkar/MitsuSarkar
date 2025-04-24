@@ -97,7 +97,7 @@ Leveraged visualization tools for trend analysis and decision-making.
 
 ## ✉️ Get in Touch
 
-📧 **Email:** [sumit.sarkar@example.com](mailto:sumit.sarkar@example.com)  
+📧 **Email:** [sumitsarkar2222@gmail.com](mailto:sumitsarkar2222@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/sumit-sarkar](https://linkedin.com/in/sumit-sarkar)  
 📁 **GitHub:** [github.com/MitsuSarkar](https://github.com/MitsuSarkar)
 
